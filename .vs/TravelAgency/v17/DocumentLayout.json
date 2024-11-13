@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency-\u0438\u043D\u0434\\travelagency\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0CB374-EBC8-4C47-B6B4-494FB407DA0A}|TravelAgency.Domain\\TravelAgency.Domain.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\travelagency.domain\\viewmodels\\loginandregistration\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0CB374-EBC8-4C47-B6B4-494FB407DA0A}|TravelAgency.Domain\\TravelAgency.Domain.csproj|solutionrelative:travelagency.domain\\viewmodels\\loginandregistration\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\travelagency\\wwwroot\\css\\login_and_registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\wwwroot\\css\\login_and_registration.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency-\u0438\u043D\u0434\\travelagency\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\wwwroot\\css\\shared.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\travelagency-\u0438\u043D\u0434\\travelagency\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\travelagency\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\travelagency\\views\\home\\siteinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76315FAB-ADD8-485B-BF6D-E04F963B3B74}|TravelAgency\\TravelAgency.csproj|solutionrelative:travelagency\\views\\home\\siteinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shared.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\wwwroot\\css\\shared.css",
+              "RelativeDocumentMoniker": "TravelAgency\\wwwroot\\css\\shared.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\wwwroot\\css\\shared.css",
+              "RelativeToolTip": "TravelAgency\\wwwroot\\css\\shared.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T19:46:48.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "TravelAgency\\wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "TravelAgency\\wwwroot\\css\\home.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T19:45:17.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login_and_registration.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\wwwroot\\css\\login_and_registration.css",
+              "RelativeDocumentMoniker": "TravelAgency\\wwwroot\\css\\login_and_registration.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\wwwroot\\css\\login_and_registration.css",
+              "RelativeToolTip": "TravelAgency\\wwwroot\\css\\login_and_registration.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-08T09:32:53.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SiteInformation.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\Views\\Home\\SiteInformation.cshtml",
+              "RelativeDocumentMoniker": "TravelAgency\\Views\\Home\\SiteInformation.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\Views\\Home\\SiteInformation.cshtml",
+              "RelativeToolTip": "TravelAgency\\Views\\Home\\SiteInformation.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAC4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:13:14.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TravelAgency\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TravelAgency\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwBkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:13:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency.Domain\\ViewModels\\LoginAndRegistration\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "TravelAgency.Domain\\ViewModels\\LoginAndRegistration\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency.Domain\\ViewModels\\LoginAndRegistration\\RegisterViewModel.cs",
+              "RelativeToolTip": "TravelAgency.Domain\\ViewModels\\LoginAndRegistration\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:33:07.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TravelAgency\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\TravelAgency-\u0438\u043D\u0434\\TravelAgency\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TravelAgency\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:43:18.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
